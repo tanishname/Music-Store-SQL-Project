@@ -1,6 +1,7 @@
 # 🎵 Music Store SQL Project
 
-![Music Database Schema] (https://github.com/tanishname/Music-Store-SQL-Project/blob/main/music_store_project.jpg)
+![Music Store Project](https://github.com/tanishname/Music-Store-SQL-Project/blob/main/music_store_project.jpg?raw=true)
+
 
 
 
