@@ -1,10 +1,7 @@
 # 🎵 Music Store SQL Project
 
-![Music Store Project](https://github.com/tanishname/Music-Store-SQL-Project/blob/main/music_store_project.jpg?raw=true)
 
-
-
-
+![Music Store Project](https://github.com/tanishname/Music-Store-SQL-Project/blob/main/msp.jpg?raw=true)
 
 
 ## Description
