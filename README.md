@@ -37,17 +37,14 @@ Tables included:
 ## Learning Outcomes
 - Analyze sales & customer data  
 - Work with multi-table joins & complex queries  
-- Generate actionable business insights  
+- Generate actionable business insights
 
-## Tech Stack
-- SQL (MySQL / SQLite / PostgreSQL compatible)  
-- GitHub for version control & portfolio showcase  
+## Conclusion
+This project demonstrates practical SQL skills for analyzing sales, customers, and music trends. Ideal for showcasing beginner-to-intermediate SQL abilities in a portfolio.
 
-## How to Use
-1. Clone this repository.  
-2. Import the database schema and data.  
-3. Run the SQL queries to explore insights.  
+## Future Improvements
+- Add monthly or yearly sales trend analysis  
+- Explore customer retention and repeat purchase patterns  
+- Implement predictive queries for marketing campaigns
 
-## Portfolio Value
-Demonstrates foundational SQL skills and practical data analysis.  
-Ideal for beginner/intermediate SQL learners and data-focused role portfolios.
+
