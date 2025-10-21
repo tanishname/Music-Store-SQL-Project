@@ -47,4 +47,5 @@ This project demonstrates practical SQL skills for analyzing sales, customers, a
 - Explore customer retention and repeat purchase patterns  
 - Implement predictive queries for marketing campaigns
 
+![Music Database Schema](https://github.com/tanishname/Music-Store-SQL-Project/blob/main/MusicDatabaseSchema.png?raw=true)
 
