@@ -1,5 +1,11 @@
 # 🎵 Music Store SQL Project
 
+![Music Database Schema] (https://github.com/tanishname/Music-Store-SQL-Project/blob/main/music_store_project.jpg)
+
+
+
+
+
 ## Description
 Beginner-friendly SQL project using a fictional music store dataset.  
 Explores customer behavior, sales trends, and music preferences through practical SQL queries.
